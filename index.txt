@@ -44,10 +44,18 @@
 | 2.  php artisan ide-helper:models "App\Models\Post"
 | 3.  php artisan ide-helper:generate
 
+
 |--------------------------------------------------------------------------
 | Laravel Debugger:
 |--------------------------------------------------------------------------
 | 1.  composer require barryvdh/laravel-debugbar --dev
+
+|--------------------------------------------------------------------------
+| PHP Extensions:
+|--------------------------------------------------------------------------
+| 1.  https://pecl.php.net/package/rdkafka
+
+
 
 
 
