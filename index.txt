@@ -41,8 +41,8 @@
 | Laravel IDE Helper:
 |--------------------------------------------------------------------------
 | 1.  composer require --dev barryvdh/laravel-ide-helper 
-| 2.  php artisan ide-helper:models "App\Models\Post"
-| 3.  php artisan ide-helper:generate
+| 2.  php artisan ide-helper:generate
+| 3.  php artisan ide-helper:models "App\Models\Post"
 
 
 |--------------------------------------------------------------------------
@@ -54,6 +54,7 @@
 | PHP Extensions:
 |--------------------------------------------------------------------------
 | 1.  https://pecl.php.net/package/rdkafka
+| 2.  https://phpext.phptools.online
 
 
 
