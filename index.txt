@@ -46,6 +46,15 @@
 
 
 |--------------------------------------------------------------------------
+| Laravel 11 Installation:
+|--------------------------------------------------------------------------
+| 1.  php artisan install:api
+| 2.  php artisan install:broadcasting
+| 3.  php artisan config:publish --all
+| 4.  php artisan key:generate
+
+
+|--------------------------------------------------------------------------
 | Laravel Debugger:
 |--------------------------------------------------------------------------
 | 1.  composer require barryvdh/laravel-debugbar --dev
