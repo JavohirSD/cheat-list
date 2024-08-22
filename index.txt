@@ -52,6 +52,7 @@
 | 2.  php artisan install:broadcasting
 | 3.  php artisan config:publish --all
 | 4.  php artisan key:generate
+| 5.  php artisan lang:publish
 
 
 |--------------------------------------------------------------------------
