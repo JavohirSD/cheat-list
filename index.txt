@@ -56,6 +56,16 @@
 
 
 |--------------------------------------------------------------------------
+| Publish project to GitHub
+|--------------------------------------------------------------------------
+| 1.  git init
+| 2.  git commit -m 'Initial commit'
+| 3.  git remote add origin https://github.com:larahelp/RestApi.git
+| 4.  git push -u origin master
+
+
+
+|--------------------------------------------------------------------------
 | Laravel Debugger:
 |--------------------------------------------------------------------------
 | 1.  composer require barryvdh/laravel-debugbar --dev
