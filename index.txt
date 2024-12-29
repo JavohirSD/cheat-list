@@ -48,11 +48,12 @@
 |--------------------------------------------------------------------------
 | Laravel 11 Installation:
 |--------------------------------------------------------------------------
-| 1.  php artisan install:api
-| 2.  php artisan install:broadcasting
-| 3.  php artisan config:publish --all
-| 4.  php artisan key:generate
-| 5.  php artisan lang:publish
+| 1.  composer create-project laravel/laravel example-app
+| 2.  php artisan install:api
+| 3.  php artisan install:broadcasting
+| 4.  php artisan config:publish --all
+| 5.  php artisan key:generate
+| 6.  php artisan lang:publish
 
 
 |--------------------------------------------------------------------------
